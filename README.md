@@ -32,18 +32,17 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhnJung-min&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnJung-min&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhnJung-min&theme=darkhub&no-frame=true&margin-w=10&row=1)](https://github.com/AhnJung-min)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhnJung-min&theme=github-compact&hide_border=true&area=true)](https://github.com/AhnJung-min)
+[![AhnJung-min's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhnJung-min&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)](https://github.com/AhnJung-min)
 
 </div>
 
