@@ -40,6 +40,16 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![AhnJung-min's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhnJung-min&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)](https://github.com/AhnJung-min)
+
+</div>
+
+---
+
 ## 📝 Blog
 
 <div align="center">
