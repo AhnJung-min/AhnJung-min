@@ -49,6 +49,19 @@
 
 ---
 
+## 📝 Blog
+
+<div align="center">
+
+| 💻 IT 블로그 | ⚽ 축구 블로그 |
+|:---:|:---:|
+| [![Shrew Log](https://img.shields.io/badge/Shrew_Log-개발·기술-3776AB?style=for-the-badge&logo=tistory&logoColor=white)](https://shrew-log.tistory.com/) | [![Football of TFT](https://img.shields.io/badge/Football_of_TFT-축구·전술-22863a?style=for-the-badge&logo=tistory&logoColor=white)](https://footballoftft.tistory.com/) |
+| Python · Agent · 개발 경험 | 축구 분석 & 전술 이야기 |
+
+</div>
+
+---
+
 ## 🚀 Recent Projects
 
 | 프로젝트 | 설명 | 기술 |
