@@ -32,18 +32,18 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhnJung-min&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnJung-min&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhnJung-min&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnJung-min&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
 </div>
 
 ---
 
-## 🔥 Streak
+## 📈 Activity Graph
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhnJung-min&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhnJung-min&theme=github-compact&hide_border=true&area=true)](https://github.com/AhnJung-min)
 
 </div>
 
