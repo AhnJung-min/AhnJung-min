@@ -97,7 +97,7 @@
 |:---:|:---|:---|
 | 📈 [**ASAB**](https://github.com/AhnJung-min/ASAB) | KIS Open API 기반 국내주식 자동매매 봇 (모의투자) | `Python` `Streamlit` `SQLite` |
 | 🤖 **AI Agent** | LangChain 멀티에이전트 자동화 | `Python` `LangChain` |
-| 🌐 **Fullstack App** | FastAPI + React 웹 앱 | `FastAPI` `React` |
+| 🔬 [**AIOps**](https://github.com/AhnJung-min/AIOps) | AI 두피/모발 진단 & 맞춤 제품 추천 서비스 (EfficientNet-B0 × 6) | `PyTorch` `FastAPI` `React` |
 
 </div>
 
