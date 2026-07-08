@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+AhnJung-min%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;AI+Agent+%C2%B7+Python+%C2%B7+%EC%9E%90%EB%8F%99%ED%99%94+%C2%B7+%ED%92%80%EC%8A%A4%ED%83%9D;%EB%B3%B5%EC%9E%A1%ED%95%9C+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A9%EB%8B%88%EB%8B%A4+%F0%9F%9B%A0%EF%B8%8F)](https://github.com/AhnJung-min)
 
-<img src="https://github-profile-trophy.vercel.app/?username=AhnJung-min&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-
 </div>
 
 ---
@@ -71,15 +69,6 @@
 
 <div align="center">
 
-<a href="https://github.com/AhnJung-min/ASAB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnJung-min&repo=ASAB&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/AhnJung-min/AIOps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnJung-min&repo=AIOps&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<br/><br/>
-
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | 📈 [**ASAB**](https://github.com/AhnJung-min/ASAB) | KIS Open API 기반 국내주식 자동매매 봇 (모의투자) | `Python` `Streamlit` `SQLite` |
@@ -94,12 +83,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhnJung-min&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnJung-min&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="170" />
+<a href="https://github.com/AhnJung-min">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnJung-min&theme=tokyonight" width="800" alt="Profile Details"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AhnJung-min&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnJung-min&theme=tokyonight" width="390" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnJung-min&theme=tokyonight&utcOffset=9" width="390" alt="Commit Time"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnJung-min&theme=tokyonight" width="390" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnJung-min&theme=tokyonight" width="390" alt="Top Languages by Commit"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AhnJung-min&theme=tokyonight&hide_border=true&background=0d1117" height="170" alt="Streak"/>
 
 <br/><br/>
 
